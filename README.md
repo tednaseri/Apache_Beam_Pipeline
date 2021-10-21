@@ -7,7 +7,7 @@ to the google storage. Then, during the running of the Apache Beam Pipeline, the
 
 ### Pipeline:
 It is made of 4 parts: 
-1- Reading data from GCP
+1- Reading data from GCP<br>
 2- Applying text preprocess
 3- Loading trained model from GCP and applying on a given input
 4- Writing result to the GCP.
